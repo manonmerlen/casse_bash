@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo "Hello World"
-echo "Hello World"
+tr '[a-z][A-Z]' '[A-Z][a-z]"
